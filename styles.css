@@ -1,0 +1,100 @@
+body {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: serif;
+    font-style: bold;
+}
+
+h1 {
+    color: #0000aa;
+    border: dashed #8888cc 1px;
+    padding: 15px;
+    text-align: center;
+    background: #eeeeff;
+    font-family: monospace;
+    font-style: bold;
+    font-size: 24pt;
+}
+
+h1.err {
+    color: #881144;
+    border: dashed #cc7777 1px;
+    background: #ffaaaa;
+}
+
+h2 {
+    color: #000077;
+    border-bottom: solid #4444cc 1px;
+    padding: 5px;
+    padding-left: 0px;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+div.app {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+table.reg {
+    table-layout: fixed;
+}
+
+th {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #222288;
+    color: white;
+}
+
+td {
+    padding: 5px;
+    border: dashed #8888cc 1px;
+}
+
+input[type=text], textarea.app {
+    width: 100%;
+    padding: 5px;
+    resize: none;
+}
+input[type=submit] {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+
+span.req {
+    color: red;
+    font-style: italic;
+}
+
+span.desc {
+    color: #777777;
+}
+
+span.uinfo {
+}
+
+p.err {
+    color: #aa2222;
+    font-size: 14pt;
+    font-style: bold;
+}
+
+pre.code {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+    background: #eeeeee;
+    border: dashed 1px #777777;
+    font-family: monospace;
+    font-size: 12pt;
+    padding: 15px;
+}
+
+*/

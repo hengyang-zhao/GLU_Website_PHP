@@ -1,0 +1,5 @@
+ 15:49:22 up 2 min,  3 users,  load average: 0.70, 0.40, 0.16
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+hengyang tty8     :0               15:47    2:07   4.49s  0.22s x-session-manager
+hengyang pts/0    :0.0             15:47    1:22   0.23s  0.23s bash
+hengyang pts/5    :0.0             15:48    2.00s  0.26s  0.01s w

@@ -1,0 +1,220 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  2 15:47 ?        00:00:02 /sbin/init
+root         2     0  0 15:47 ?        00:00:00 [kthreadd]
+root         3     2  0 15:47 ?        00:00:00 [ksoftirqd/0]
+root         4     2  0 15:47 ?        00:00:00 [kworker/0:0]
+root         5     2  0 15:47 ?        00:00:00 [kworker/0:0H]
+root         6     2  0 15:47 ?        00:00:00 [kworker/u16:0]
+root         7     2  0 15:47 ?        00:00:00 [rcu_sched]
+root         8     2  0 15:47 ?        00:00:00 [rcuos/0]
+root         9     2  0 15:47 ?        00:00:00 [rcuos/1]
+root        10     2  0 15:47 ?        00:00:00 [rcuos/2]
+root        11     2  0 15:47 ?        00:00:00 [rcuos/3]
+root        12     2  0 15:47 ?        00:00:00 [rcuos/4]
+root        13     2  0 15:47 ?        00:00:00 [rcuos/5]
+root        14     2  0 15:47 ?        00:00:00 [rcuos/6]
+root        15     2  0 15:47 ?        00:00:00 [rcuos/7]
+root        16     2  0 15:47 ?        00:00:00 [rcu_bh]
+root        17     2  0 15:47 ?        00:00:00 [rcuob/0]
+root        18     2  0 15:47 ?        00:00:00 [rcuob/1]
+root        19     2  0 15:47 ?        00:00:00 [rcuob/2]
+root        20     2  0 15:47 ?        00:00:00 [rcuob/3]
+root        21     2  0 15:47 ?        00:00:00 [rcuob/4]
+root        22     2  0 15:47 ?        00:00:00 [rcuob/5]
+root        23     2  0 15:47 ?        00:00:00 [rcuob/6]
+root        24     2  0 15:47 ?        00:00:00 [rcuob/7]
+root        25     2  0 15:47 ?        00:00:00 [migration/0]
+root        26     2  0 15:47 ?        00:00:00 [watchdog/0]
+root        27     2  0 15:47 ?        00:00:00 [watchdog/1]
+root        28     2  0 15:47 ?        00:00:00 [migration/1]
+root        29     2  0 15:47 ?        00:00:00 [ksoftirqd/1]
+root        30     2  0 15:47 ?        00:00:00 [kworker/1:0]
+root        31     2  0 15:47 ?        00:00:00 [kworker/1:0H]
+root        32     2  0 15:47 ?        00:00:00 [watchdog/2]
+root        33     2  0 15:47 ?        00:00:00 [migration/2]
+root        34     2  0 15:47 ?        00:00:00 [ksoftirqd/2]
+root        35     2  0 15:47 ?        00:00:00 [kworker/2:0]
+root        36     2  0 15:47 ?        00:00:00 [kworker/2:0H]
+root        37     2  0 15:47 ?        00:00:00 [watchdog/3]
+root        38     2  0 15:47 ?        00:00:00 [migration/3]
+root        39     2  0 15:47 ?        00:00:00 [ksoftirqd/3]
+root        40     2  0 15:47 ?        00:00:00 [kworker/3:0]
+root        41     2  0 15:47 ?        00:00:00 [kworker/3:0H]
+root        42     2  0 15:47 ?        00:00:00 [khelper]
+root        43     2  0 15:47 ?        00:00:00 [kdevtmpfs]
+root        44     2  0 15:47 ?        00:00:00 [netns]
+root        45     2  0 15:47 ?        00:00:00 [writeback]
+root        46     2  0 15:47 ?        00:00:00 [kintegrityd]
+root        47     2  0 15:47 ?        00:00:00 [bioset]
+root        48     2  0 15:47 ?        00:00:00 [kworker/u17:0]
+root        49     2  0 15:47 ?        00:00:00 [kblockd]
+root        50     2  0 15:47 ?        00:00:00 [ata_sff]
+root        51     2  0 15:47 ?        00:00:00 [khubd]
+root        52     2  0 15:47 ?        00:00:00 [md]
+root        53     2  0 15:47 ?        00:00:00 [devfreq_wq]
+root        54     2  0 15:47 ?        00:00:00 [kworker/0:1]
+root        56     2  0 15:47 ?        00:00:00 [khungtaskd]
+root        57     2  0 15:47 ?        00:00:00 [kswapd0]
+root        58     2  0 15:47 ?        00:00:00 [ksmd]
+root        59     2  0 15:47 ?        00:00:00 [khugepaged]
+root        60     2  0 15:47 ?        00:00:00 [fsnotify_mark]
+root        61     2  0 15:47 ?        00:00:00 [ecryptfs-kthrea]
+root        62     2  0 15:47 ?        00:00:00 [crypto]
+root        74     2  0 15:47 ?        00:00:00 [kthrotld]
+root        75     2  0 15:47 ?        00:00:00 [kworker/u16:1]
+root        76     2  0 15:47 ?        00:00:00 [kworker/u16:2]
+root        77     2  0 15:47 ?        00:00:00 [kworker/2:1]
+root        78     2  0 15:47 ?        00:00:00 [kworker/1:1]
+root        97     2  0 15:47 ?        00:00:00 [deferwq]
+root        98     2  0 15:47 ?        00:00:00 [charger_manager]
+root       145     2  0 15:47 ?        00:00:00 [kworker/1:2]
+root       146     2  0 15:47 ?        00:00:00 [kworker/3:1]
+root       147     2  0 15:47 ?        00:00:00 [kpsmoused]
+root       163     2  0 15:47 ?        00:00:00 [scsi_eh_0]
+root       165     2  0 15:47 ?        00:00:00 [scsi_eh_1]
+root       167     2  0 15:47 ?        00:00:00 [scsi_eh_2]
+root       168     2  0 15:47 ?        00:00:00 [scsi_eh_3]
+root       171     2  0 15:47 ?        00:00:00 [scsi_eh_4]
+root       172     2  0 15:47 ?        00:00:00 [scsi_eh_5]
+root       173     2  0 15:47 ?        00:00:00 [kworker/u16:3]
+root       177     2  0 15:47 ?        00:00:00 [kworker/u16:4]
+root       178     2  0 15:47 ?        00:00:00 [kworker/u16:5]
+root       179     2  0 15:47 ?        00:00:00 [kworker/u16:6]
+root       180     2  0 15:47 ?        00:00:00 [kworker/u16:7]
+root       183     2  0 15:47 ?        00:00:00 [kworker/2:2]
+root       184     2  0 15:47 ?        00:00:00 [kworker/u16:8]
+root       201     2  0 15:47 ?        00:00:00 [kworker/0:2]
+root       258     2  0 15:47 ?        00:00:00 [kworker/u17:1]
+root       259     2  0 15:47 ?        00:00:00 [jbd2/sdb2-8]
+root       260     2  0 15:47 ?        00:00:00 [ext4-rsv-conver]
+root       298     1  0 15:47 ?        00:00:00 mountall --daemon
+root       382     1  0 15:47 ?        00:00:00 upstart-udev-bridge --daemon
+root       387     1  0 15:47 ?        00:00:00 /lib/systemd/systemd-udevd --daemon
+root       444     2  0 15:47 ?        00:00:00 [irq/44-mei_me]
+root       460     2  0 15:47 ?        00:00:00 [cfg80211]
+root       465     2  0 15:47 ?        00:00:00 [irq/45-iwlwifi]
+root       470     2  0 15:47 ?        00:00:00 [kworker/3:2]
+root       486     2  0 15:47 ?        00:00:00 [iwlwifi]
+root       503     2  0 15:47 ?        00:00:00 [kmpathd]
+root       505     2  0 15:47 ?        00:00:00 [kmpath_handlerd]
+root       541     2  0 15:47 ?        00:00:00 [kvm-irqfd-clean]
+root       573     2  0 15:47 ?        00:00:00 [hci0]
+root       576     2  0 15:47 ?        00:00:00 [hci0]
+root       578     2  0 15:47 ?        00:00:00 [kworker/u17:2]
+root       587     2  0 15:47 ?        00:00:00 [hd-audio0]
+root       611     2  0 15:47 ?        00:00:00 [led_workqueue]
+root       744     2  0 15:47 ?        00:00:00 [jbd2/sdb1-8]
+root       745     2  0 15:47 ?        00:00:00 [ext4-rsv-conver]
+root       756     1  0 15:47 ?        00:00:00 upstart-socket-bridge --daemon
+root       763     2  0 15:47 ?        00:00:00 [jbd2/sda2-8]
+root       764     2  0 15:47 ?        00:00:00 [ext4-rsv-conver]
+root       796     1  0 15:47 ?        00:00:00 /sbin/mount.ntfs /dev/sda4 /home/hengyang/Shared -o rw
+root       811     1  0 15:47 ?        00:00:00 smbd -F
+message+   861     1  0 15:47 ?        00:00:00 dbus-daemon --system --fork
+root       883   811  0 15:47 ?        00:00:00 smbd -F
+root       923     1  0 15:47 ?        00:00:00 /usr/sbin/ModemManager
+root       925     1  0 15:47 ?        00:00:00 /usr/sbin/bluetoothd
+root       935     1  0 15:47 ?        00:00:00 /lib/systemd/systemd-logind
+root       943     2  0 15:47 ?        00:00:00 [krfcommd]
+root       963     1  0 15:47 ?        00:00:00 NetworkManager
+syslog     967     1  0 15:47 ?        00:00:00 rsyslogd
+root       971     1  0 15:47 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+avahi      979     1  0 15:47 ?        00:00:00 avahi-daemon: running [hzhao-samsung.local]
+avahi      981   979  0 15:47 ?        00:00:00 avahi-daemon: chroot helper
+root       998     1  0 15:47 ?        00:00:00 upstart-file-bridge --daemon
+root      1248     1  0 15:47 ?        00:00:00 /sbin/wpa_supplicant -B -P /run/sendsigs.omit.d/wpasupplicant.pid -u -s -O /var/run/wpa_supplicant
+root      1252     1  0 15:47 tty4     00:00:00 /sbin/getty -8 38400 tty4
+root      1254     1  0 15:47 tty5     00:00:00 /sbin/getty -8 38400 tty5
+root      1262     1  0 15:47 tty2     00:00:00 /sbin/getty -8 38400 tty2
+root      1263     1  0 15:47 tty3     00:00:00 /sbin/getty -8 38400 tty3
+root      1267     1  0 15:47 tty6     00:00:00 /sbin/getty -8 38400 tty6
+root      1308     1  0 15:47 ?        00:00:00 /usr/sbin/sshd -D
+root      1326     1  0 15:47 ?        00:00:00 cron
+daemon    1327     1  0 15:47 ?        00:00:00 atd
+root      1377     1  0 15:47 ?        00:00:00 mdm
+root      1379     1  0 15:47 ?        00:00:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1405     1  0 15:47 ?        00:00:00 /usr/sbin/irqbalance
+root      1427  1377  0 15:47 ?        00:00:00 mdm
+root      1462  1427  3 15:47 tty8     00:00:04 /usr/bin/X :0 -audit 0 -auth /var/lib/mdm/:0.Xauth -nolisten tcp vt8
+dictd     1482     1  0 15:47 ?        00:00:00 dictd 1.12.1: 0/0
+root      1493     1  0 15:47 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops  1506     1  0 15:47 ?        00:00:00 /usr/sbin/kerneloops
+mysql     1508     1  0 15:47 ?        00:00:00 /usr/sbin/mysqld
+root      1554     2  0 15:47 ?        00:00:00 [iprt]
+root      1631     1  0 15:47 ?        00:00:00 /opt/cisco/hostscan/bin/ciscod
+root      1653     1  0 15:47 ?        00:00:01 /opt/cisco/anyconnect/bin/vpnagentd
+root      1684     1  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1688  1684  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1689  1684  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1690  1684  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1691  1684  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1692  1684  0 15:47 ?        00:00:00 /usr/sbin/apache2 -k start
+mdm       1710     1  0 15:47 ?        00:00:00 dbus-launch --autolaunch=3a47d883f61719e348dc4083540d25e2 --binary-syntax --close-stderr
+mdm       1713     1  0 15:47 ?        00:00:00 //bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root      1772     1  0 15:47 tty1     00:00:00 /sbin/getty -8 38400 tty1
+root      1873     2  0 15:47 ?        00:00:00 [kauditd]
+hengyang  1876     1  0 15:47 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+root      1881     1  0 15:47 ?        00:00:00 /usr/sbin/console-kit-daemon --no-daemon
+hengyang  1952  1427  0 15:47 ?        00:00:00 x-session-manager
+hengyang  2027  1952  0 15:47 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch x-session-manager
+hengyang  2030     1  0 15:47 ?        00:00:00 /usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch x-session-manager
+hengyang  2031     1  0 15:47 ?        00:00:00 //bin/dbus-daemon --fork --print-pid 6 --print-address 9 --session
+hengyang  2034  1952  0 15:47 ?        00:00:00 [fcitx] <defunct>
+hengyang  2039     1  0 15:47 ?        00:00:00 /usr/bin/fcitx
+hengyang  2045     1  0 15:47 ?        00:00:00 //bin/dbus-daemon --fork --print-pid 9 --print-address 11 --config-file /usr/share/fcitx/dbus/daemon.conf
+hengyang  2049     1  0 15:47 ?        00:00:00 /usr/lib/dconf/dconf-service
+hengyang  2055     1  0 15:47 ?        00:00:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-v5sor4ZFbz,guid=1c3342a83058106bd692ca5b547a5b0d 2045
+hengyang  2065  1952  0 15:47 ?        00:00:00 /usr/bin/mate-settings-daemon
+hengyang  2067  1952  1 15:47 ?        00:00:01 marco
+hengyang  2073     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfsd
+hengyang  2078     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+hengyang  2080  1952  0 15:47 ?        00:00:00 mate-panel
+hengyang  2093     1  0 15:47 ?        00:00:00 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     2095     1  0 15:47 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+hengyang  2098  1952  0 15:47 ?        00:00:00 /bin/sh /usr/bin/startcaja
+hengyang  2103     1  2 15:47 ?        00:00:02 python /usr/lib/linuxmint/mintMenu/mintMenu.py
+hengyang  2105     1  0 15:47 ?        00:00:00 /usr/lib/mate-panel/wnck-applet
+hengyang  2109     1  0 15:47 ?        00:00:00 /usr/lib/mate-panel/clock-applet
+hengyang  2111     1  0 15:47 ?        00:00:00 /usr/lib/mate-panel/notification-area-applet
+hengyang  2145     1  0 15:47 ?        00:00:00 syndaemon -i 0.5 -k
+hengyang  2147     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2152     1  0 15:47 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+hengyang  2184     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+hengyang  2189     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+hengyang  2193     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+hengyang  2232  2098  0 15:47 ?        00:00:00 caja -n
+hengyang  2233  1952  0 15:47 ?        00:00:00 /usr/bin/python /usr/share/system-config-printer/applet.py
+hengyang  2235  1952  0 15:47 ?        00:00:00 mate-volume-control-applet
+hengyang  2242  1952  1 15:47 ?        00:00:01 /usr/lib/vino/vino-server --sm-disable
+hengyang  2243  1952  0 15:47 ?        00:00:00 nm-applet
+hengyang  2244  1952  0 15:47 ?        00:00:00 mate-screensaver
+hengyang  2248  1952  0 15:47 ?        00:00:00 mate-power-manager
+hengyang  2251  1952  0 15:47 ?        00:00:00 /usr/lib/x86_64-linux-gnu/polkit-mate-authentication-agent-1
+hengyang  2262     1  0 15:47 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+hengyang  2268  2262  0 15:47 ?        00:00:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+hengyang  2272     1  0 15:47 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+root      2283     1  0 15:47 ?        00:00:00 /usr/lib/upower/upowerd
+hengyang  2287     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.11 /org/gtk/gvfs/exec_spaw/0
+root      2327     1  0 15:47 ?        00:00:00 /usr/sbin/system-tools-backends
+root      2343     1  0 15:47 ?        00:00:00 /usr/bin/perl /usr/share/system-tools-backends-2.0/scripts/SystemToolsBackends.pl -m SMBConfig
+root      2344     1  0 15:47 ?        00:00:00 /usr/bin/perl /usr/share/system-tools-backends-2.0/scripts/SystemToolsBackends.pl -m NFSConfig
+hengyang  2444     1  0 15:47 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+root      2488     1  0 15:47 ?        00:00:00 /usr/bin/perl /usr/share/system-tools-backends-2.0/scripts/SystemToolsBackends.pl -m Platform
+hengyang  2509     1  0 15:47 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+root      2526   963  0 15:47 ?        00:00:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-wlan0.pid -lf /var/lib/NetworkManager/dhclient-ae0fb33c-4f69-4929-888e-9b4a15da07f9-wlan0.lease -cf /var/lib/NetworkManager/dhclient-wlan0.conf wlan0
+nobody    2537   963  0 15:47 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      2661     1  0 15:47 ?        00:00:00 nmbd -D
+hengyang  2677     1  0 15:47 ?        00:00:00 mate-terminal
+hengyang  2681  2677  0 15:47 ?        00:00:00 gnome-pty-helper
+hengyang  2682  2677  0 15:47 pts/0    00:00:00 bash
+hengyang  2811  1952  0 15:47 ?        00:00:00 /usr/bin/python /usr/bin/mintupdate-launcher
+hengyang  2814  2811  0 15:47 ?        00:00:00 sh -c /usr/lib/linuxmint/mintUpdate/mintUpdate.py
+hengyang  2815  2814  0 15:47 ?        00:00:00 python /usr/lib/linuxmint/mintUpdate/mintUpdate.py
+root      2820     2  0 15:47 ?        00:00:00 [cifsiod]
+root      2823     2  0 15:47 ?        00:00:00 [cifsd]
+hengyang  2864     1  1 15:47 ?        00:00:01 google-drive-ocamlfuse /home/hengyang/GoogleDrive/
+root      2872     1  0 15:47 ?        00:00:00 /usr/sbin/cupsd -f
+hengyang  2918     1 25 15:48 ?        00:00:16 /usr/lib/firefox/firefox
+hengyang  3068  2677  0 15:48 pts/5    00:00:00 bash
+root      3121     2  0 15:48 ?        00:00:00 [kworker/0:3]
+hengyang  3149  3068  0 15:49 pts/5    00:00:00 ps -ef

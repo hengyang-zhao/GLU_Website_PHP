@@ -1,0 +1,18 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name
+tcp        0      0 127.0.1.1:53            0.0.0.0:*               LISTEN      2537/dnsmasq    
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      1308/sshd       
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      2872/cupsd      
+tcp        0      0 127.0.0.1:29754         0.0.0.0:*               LISTEN      1653/vpnagentd  
+tcp        0      0 0.0.0.0:445             0.0.0.0:*               LISTEN      811/smbd        
+tcp        0      0 127.0.0.1:2628          0.0.0.0:*               LISTEN      1482/0          
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN      1508/mysqld     
+tcp        0      0 0.0.0.0:139             0.0.0.0:*               LISTEN      811/smbd        
+tcp        0      0 0.0.0.0:5900            0.0.0.0:*               LISTEN      2242/vino-server
+tcp6       0      0 :::22                   :::*                    LISTEN      1308/sshd       
+tcp6       0      0 ::1:631                 :::*                    LISTEN      2872/cupsd      
+tcp6       0      0 :::445                  :::*                    LISTEN      811/smbd        
+tcp6       0      0 :::5800                 :::*                    LISTEN      2242/vino-server
+tcp6       0      0 :::139                  :::*                    LISTEN      811/smbd        
+tcp6       0      0 :::5900                 :::*                    LISTEN      2242/vino-server
+tcp6       0      0 :::80                   :::*                    LISTEN      1684/apache2    

@@ -1,0 +1,5 @@
+total 24K
+-rw-r--r-- 1 hengyang hengyang  16K Nov 29 15:49 ps.txt
+-rw-r--r-- 1 hengyang hengyang  347 Nov 29 15:49 w.txt
+-rw-r--r-- 1 hengyang hengyang 1.7K Nov 29 15:49 netstat.txt
+-rw-r--r-- 1 hengyang hengyang    0 Nov 29 15:49 ls.txt
