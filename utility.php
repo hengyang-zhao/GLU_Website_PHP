@@ -15,7 +15,7 @@ function add_user($app) {
         " VALUES " .
         "(:ID, :FirstName, :LastName, :Email, :Phone, :Organization, :ResearchArea, :PackageName, NOW(), :WhyApplied)"
     );
-    $stmt->execute(array(
+    $app_info = array(
         ":ID" => $id,
         ":FirstName" => trim($app["firstName"]),
         ":LastName" => trim($app["lastName"]),
@@ -25,7 +25,9 @@ function add_user($app) {
         ":ResearchArea" => trim($app["researchArea"]),
         ":PackageName" => trim($app["package"]),
         ":WhyApplied" => trim($app["reason"])
-    ));
+    );
+    $stmt->execute($app_info);
+    $GLOBALS["app_info"] = $app_info;
 
     return $id;
 }
