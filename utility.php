@@ -33,7 +33,7 @@ function add_user($app) {
 }
 
 function print_downloaders() {
-    echo '<table class="reg"><tr>' .
+    echo '<table class="reg" width="100%"><tr>' .
         "<th>Name</th>" .
         "<th>Email</th>" .
         "<th>Phone</th>" .
